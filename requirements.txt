@@ -297,7 +297,6 @@ rsa==4.8
 scikit-image==0.18.3
 scikit-learn==1.0.2
 scipy==1.4.1
-screen-resolution-extra==0.0.0
 scs==3.1.0
 seaborn==0.11.2
 semver==2.13.0
@@ -316,7 +315,6 @@ spacy==2.2.4
 Sphinx==1.8.6
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-websupport==1.2.4
-SQLAlchemy==1.4.31
 sqlparse==0.4.2
 srsly==1.0.5
 statsmodels==0.10.2
